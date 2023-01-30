@@ -1,5 +1,4 @@
-# ms_video-processing-rabbit_mq
- microservices
+microservices
 
 ## Сервис для массовой загрузки и обработки видео, с использованием RabbitMQ + Безопасность данных
 
